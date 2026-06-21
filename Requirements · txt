@@ -1,0 +1,12 @@
+groq
+langchain
+langchain-core
+langchain-groq
+langgraph
+streamlit
+python-dotenv
+requests
+tavily-python
+pypdf
+pydantic
+httpx
